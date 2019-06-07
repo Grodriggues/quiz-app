@@ -1,0 +1,1 @@
+const perguntas = new MontaPerguntas("#question","#guesses > a",todasPerguntas,"#back","#foward","#guesses","#score");
