@@ -1,3 +1,5 @@
 # quiz-app
 
-has some bugs but i am working with it 
+This is a game made with vanilla js.
+
+
